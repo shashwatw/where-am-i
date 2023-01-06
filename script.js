@@ -126,5 +126,5 @@ const getCountryData = function (country) {
     .then(response => response.json())
     .then(data => renderCountry(data[0]));
 };
-
+// getCountryData('portugal');
 getCountryData('bharat');

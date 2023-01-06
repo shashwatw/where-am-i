@@ -150,6 +150,7 @@ const getCountryData = function (country) {
 //test
 // getCountryData('portugal');
 // getCountryData('bharat');
+// contribution new
 
 btn.addEventListener('click', function () {
     getCountryData('bharat');

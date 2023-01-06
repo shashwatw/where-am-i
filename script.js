@@ -147,6 +147,7 @@ const getCountryData = function (country) {
         countriesContainer.style.opacity = 1;
     })
 };
+//test
 // getCountryData('portugal');
 // getCountryData('bharat');
 
